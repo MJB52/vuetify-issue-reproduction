@@ -1,0 +1,22 @@
+{
+  "name": "my-vuetify-lib-test",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "vue": "^3.3.4",
+    "@mdi/font": "^7.2.96",
+    "vuetify": "^3.3.17",
+    "vuetify-lib-example": "1.0.6"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.2.3",
+    "vite": "^4.4.5",
+    "vite-plugin-vuetify": "^1.0.2"
+  }
+}
