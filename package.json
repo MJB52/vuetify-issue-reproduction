@@ -12,7 +12,7 @@
     "vue": "^3.3.4",
     "@mdi/font": "^7.2.96",
     "vuetify": "^3.3.17",
-    "vuetify-lib-example": "1.0.6"
+    "vuetify-lib-example": "1.1.0"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^4.2.3",
